@@ -1,5 +1,5 @@
 class ApplicationDeploy {
     public static void main(String[] args) {
-        System.out.println("AppArtifacst"); 
+        System.out.println("AppArtifact"); 
     }
 }
